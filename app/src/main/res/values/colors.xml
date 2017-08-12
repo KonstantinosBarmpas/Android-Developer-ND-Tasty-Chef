@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9100</color>
+    <color name="colorPrimaryDark">#FF6D00</color>
+    <color name="colorAccent">#E65100</color>
+    <color name="background_main">#FFD180</color>
+    <color name="background_recipes_cards">#FFAB40</color>
+    <color name="ingridients">#FF9100</color>
+    <color name="step">#FFAB40</color>
+</resources>
