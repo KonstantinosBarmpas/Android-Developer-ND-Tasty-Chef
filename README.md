@@ -18,6 +18,6 @@ Each folder contains all the files for each Android app submission written in Ja
 
 ## How to run
 
-This repo contains mainly Android Projects which can be run after installing `Android Studio`.
+This repo contains mainly Android Projects which can be run after installing `Android Studio`
 
 ---
