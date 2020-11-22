@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Box</string>
+    <string name="failed">Failed</string>
+    <string name="favourited">Favourited</string>
+    <string name="unfavourited">Un-Favourited</string>
+    <string name="no_trailers">No Trailers Found</string>
+    <string name="no_reviews_found">No Reviews Found</string>
+    <string name="favourite_mark">Marked As Favourite</string>
+    <string name="no_connection">Please Check Your Connection</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="no_favourites">No Favourites</string>
+</resources>
